@@ -1,0 +1,14 @@
+C:\Users\Demon\source\repos\DatabaseManager\DatabaseManager\obj\Debug\MultipleManager.csprojAssemblyReference.cache
+C:\Users\Demon\source\repos\DatabaseManager\DatabaseManager\obj\Debug\MultipleManager.csproj.CoreCompileInputs.cache
+C:\Users\Demon\source\repos\DatabaseManager\DatabaseManager\bin\Debug\MultipleManager.exe.config
+C:\Users\Demon\source\repos\DatabaseManager\DatabaseManager\bin\Debug\MultipleManager.exe
+C:\Users\Demon\source\repos\DatabaseManager\DatabaseManager\bin\Debug\MultipleManager.pdb
+C:\Users\Demon\source\repos\DatabaseManager\DatabaseManager\obj\Debug\MultipleManager.exe
+C:\Users\Demon\source\repos\DatabaseManager\DatabaseManager\obj\Debug\MultipleManager.pdb
+C:\Users\Demon\source\repos\MultipleManager\MultipleManager\bin\Debug\MultipleManager.exe.config
+C:\Users\Demon\source\repos\MultipleManager\MultipleManager\bin\Debug\MultipleManager.exe
+C:\Users\Demon\source\repos\MultipleManager\MultipleManager\bin\Debug\MultipleManager.pdb
+C:\Users\Demon\source\repos\MultipleManager\MultipleManager\obj\Debug\MultipleManager.csprojAssemblyReference.cache
+C:\Users\Demon\source\repos\MultipleManager\MultipleManager\obj\Debug\MultipleManager.csproj.CoreCompileInputs.cache
+C:\Users\Demon\source\repos\MultipleManager\MultipleManager\obj\Debug\MultipleManager.exe
+C:\Users\Demon\source\repos\MultipleManager\MultipleManager\obj\Debug\MultipleManager.pdb

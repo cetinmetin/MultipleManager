@@ -1,0 +1,7 @@
+C:\Users\Demon\source\repos\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.csprojAssemblyReference.cache
+C:\Users\Demon\source\repos\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.csproj.CoreCompileInputs.cache
+C:\Users\Demon\source\repos\DatabaseManager\DatabaseManager\bin\Debug\DatabaseManager.exe.config
+C:\Users\Demon\source\repos\DatabaseManager\DatabaseManager\bin\Debug\DatabaseManager.exe
+C:\Users\Demon\source\repos\DatabaseManager\DatabaseManager\bin\Debug\DatabaseManager.pdb
+C:\Users\Demon\source\repos\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.exe
+C:\Users\Demon\source\repos\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.pdb
